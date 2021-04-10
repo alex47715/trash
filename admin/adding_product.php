@@ -30,12 +30,12 @@ if(isset($data['add_product'])) {
 
 	if(trim($data['type']) == '') {
 
-		$errors[] = "Введите вид ореха";
+		$errors[] = "Введите вид яблока";
 	}
 
 	if ($data['type'] != 'Голден' && $data['type'] != 'Муцу' && $data['type'] != 'Чемпион' && $data['type'] != 'Джоногоред')	{
 		
-		$errors[] = "Такой яблоко не производится!";
+		$errors[] = "Такое яблоко не производится!";
 	}
 
 	if ($data['type'] == 'Голден' || $data['type'] == 'грецкий яблоко')	{
@@ -105,7 +105,7 @@ if(isset($data['add_product'])) {
 
 	if($data['if_fried'] != '1' && $data['if_fried'] != '0') {
 
-		$errors[] = "Орех обжарен? (1/0)";
+		$errors[] = "Яблоко высушено? (1/0)";
 	}
 
 	$data['date_if_introduction'] = date("Y-m-d");
@@ -235,7 +235,7 @@ if(isset($data['add_product'])) {
 		<form action="adding_product.php" method="post"> 
 		<div style="justify-content: center;">
 			<input type="text" class="form-control" name="name" id="name" placeholder="Введите название товара"><br>
-			<input type="text" class="form-control" name="type" id="type" placeholder="Введите вид ореха"><br>
+			<input type="text" class="form-control" name="type" id="type" placeholder="Введите вид яблока"><br>
 			<input type="text" class="form-control" name="description" id="description" placeholder="Введите краткое описание"><br>
 			<input type="text" class="form-control" name="full_description" id="full_description" placeholder="Введите полное описание"><br>
 			<input type="text" class="form-control" name="price" id="price" placeholder="Введите цену"><br>
@@ -243,7 +243,7 @@ if(isset($data['add_product'])) {
 			<input type="text" class="form-control" name="weight" id="weight" placeholder="Введите вес упаковки"><br>
 			<input type="text" class="form-control" name="shelf_life" id="shelf_life" placeholder="Введите срок годности"><br>
 			<input type="text" class="form-control" name="picture" id="picture" placeholder="Название файла-картинки"><br>
-			<input type="text" class="form-control" name="if_fried" id="if_fried" placeholder="Орех обжарен? (1/0)"><br>
+			<input type="text" class="form-control" name="if_fried" id="if_fried" placeholder="Яблоко высушено? (1/0)"><br>
 			
 			<div style="margin-left: 35%;">
 			<button class="no-round-btn btn-success" name="add_product" type="submit">Добавить</button>

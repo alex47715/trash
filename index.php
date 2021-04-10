@@ -22,7 +22,7 @@ else{
    <head>
       
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-      <title>Главная - ФХ “Applefield”, Gretskiy</title>
+      <title>Главная - ФХ “Applefield”, Applefield</title>
       <meta name="description" content="Фермерское хозяйство “Applefield” в широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
       <meta name="keywords" content="">
       <link rel="preload" href="gretskiy/static/fonts/ElegantIcons.woff" as="font" type="font/woff" crossorigin>
@@ -33,12 +33,12 @@ else{
       <link rel="preload" href="gretskiy/static/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
       <link rel="stylesheet" href="gretskiy/static/css/packedmin_all_css.css">
       <link rel="shortcut icon" href="gretskiy/static/images/fav.png">
-      <meta property="og:site_name" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae">
+      <meta property="og:site_name" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Applefield, Vitae">
       <meta property="og:title" content="Фермерское хозяйство “Applefield” в широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
       <meta property="og:type" content="website">
       <meta property="og:image" content="gretskiy/static/images/logo.svg">
       <meta property="og:url" content="index.php">
-      <meta property="og:description" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae. В широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
+      <meta property="og:description" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Applefield, Vitae. В широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
       <!-- Google Tag Manager -->
       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -279,7 +279,7 @@ else{
                               <div class="col-12 col-md-5 col-xl-6">
                                  <div class="slider-text d-flex flex-column align-items-center align-items-md-start">
                                     <h5 data-animation="fadeInUp" data-delay=".2s">Вкусные яблоки для Вас</h5>
-                                    <h2 data-animation="fadeInUp" data-delay=".3s">Арахис</h2>
+                                    <h2 data-animation="fadeInUp" data-delay=".3s">Муцу</h2>
                                     <a class="normal-btn" href="catalog/all.php">Заказать</a>
                                  </div>
                               </div>
@@ -632,7 +632,7 @@ else{
          <div class="footer-credit">
             <div class="container">
                <div class="footer-creadit_block d-flex flex-column flex-md-row justify-content-start justify-content-md-between align-items-baseline align-items-md-center">
-                  <p class="author">© 2021 Gretskiy | Фермерское хозяйство "Applefield" | Все права защищены</p>
+                  <p class="author">© 2021 Applefield | Фермерское хозяйство "Applefield" | Все права защищены</p>
                </div>
             </div>
          </div>
@@ -666,7 +666,7 @@ else{
          {
          "@context": "http://schema.org",
          "@type": "Organization",
-         "name": "ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae",
+         "name": "ФХ “Applefield” - Фермерское хозяйство “Applefield”, Applefield, Vitae",
          "legalName" : "ФХ “Applefield",
          "url": "https://gretskiy.by/",
          "logo": "https://gretskiy.by/gretskiy/static/images/logo.svg",

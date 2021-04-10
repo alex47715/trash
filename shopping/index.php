@@ -28,7 +28,7 @@ else{
    <link rel="stylesheet" type="text/css" href="reset.css">
     <link rel="stylesheet" type="text/css" href="../gretskiy/static/css/packedmin_all_css.css">
    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-      <title>Корзина - ФХ “Applefield”, Gretskiy</title>
+      <title>Корзина - ФХ “Applefield”, Applefield</title>
       <meta name="description" content="Фермерское хозяйство “Applefield” в широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
       <meta name="keywords" content="">
       <link rel="preload" href="../gretskiy/static/fonts/ElegantIcons.woff" as="font" type="font/woff" crossorigin>
@@ -346,7 +346,7 @@ else{
          <div class="footer-credit">
             <div class="container">
                <div class="footer-creadit_block d-flex flex-column flex-md-row justify-content-start justify-content-md-between align-items-baseline align-items-md-center">
-                  <p class="author">© 2021 Gretskiy | Фермерское хозяйство "Applefield" | Все права защищены</p>
+                  <p class="author">© 2021 Applefield | Фермерское хозяйство "Applefield" | Все права защищены</p>
                </div>
             </div>
          </div>
