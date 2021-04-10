@@ -140,7 +140,7 @@ if(isset($data['do_signup'])) {
 	<h1 align="center">Добро пожаловать в панель администратора!</h1>
             <div class="header-block d-flex align-items-center">
                <div class="container">
-                  <div class="row"><p align = "center">Фермерское хозяйство “Грицкевичей”<br>
+                  <div class="row"><p align = "center">Фермерское хозяйство “Applefield”<br>
    <?php if(isset($_SESSION['logged_user'])) : ?>
       Привет, <?php echo $_SESSION['logged_user']->name; ?><br>
 

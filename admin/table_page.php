@@ -34,7 +34,7 @@ if (isset($_GET['del_id'])) { //проверяем, есть ли перемен
 <h1 align="center">Добро пожаловать в панель администратора!</h1>
 		<div class="header-block d-flex align-items-center">
 		   <div class="container">
-			  <div class="row"><p align = "center">Фермерское хозяйство “Грицкевичей”<br>
+			  <div class="row"><p align = "center">Фермерское хозяйство “Applefield”<br>
 
   Привет, <?php echo $_SESSION['logged_user']->name; ?><br>
 
@@ -86,7 +86,7 @@ if (isset($_GET['del_id'])) { //проверяем, есть ли перемен
 				<th>Вес упаковки</th>
 				<th>Срок годности</th>
 				<th>Файл-картинка</th>
-				<th>Обжарен ли орех</th>
+				<th>Обжарен ли яблоко</th>
 				<th>Дата добавления</th>
 				<th>Удалить запись</th>
 			</tr>

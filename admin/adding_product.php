@@ -33,32 +33,32 @@ if(isset($data['add_product'])) {
 		$errors[] = "Введите вид ореха";
 	}
 
-	if ($data['type'] != 'Грецкий орех' && $data['type'] != 'Фундук' && $data['type'] != 'Миндаль' && $data['type'] != 'Фисташки')	{
+	if ($data['type'] != 'Голден' && $data['type'] != 'Муцу' && $data['type'] != 'Чемпион' && $data['type'] != 'Джоногоред')	{
 		
-		$errors[] = "Такой орех не производится!";
+		$errors[] = "Такой яблоко не производится!";
 	}
 
-	if ($data['type'] == 'Грецкий орех' || $data['type'] == 'грецкий орех')	{
+	if ($data['type'] == 'Голден' || $data['type'] == 'грецкий яблоко')	{
 
-		$data['type'] = 'Грецкий орех';
+		$data['type'] = 'Голден';
 		$data['type_n'] = '1';
 	}
 
-	if ($data['type'] == 'Фундук' || $data['type'] == 'фундук')	{
+	if ($data['type'] == 'Муцу' || $data['type'] == 'фундук')	{
 
-		$data['type'] = 'Фундук';
+		$data['type'] = 'Муцу';
 		$data['type_n'] = '2';
 	}
 
-	if ($data['type'] == 'Миндаль' || $data['type'] == 'миндаль')	{
+	if ($data['type'] == 'Чемпион' || $data['type'] == 'миндаль')	{
 
-		$data['type'] = 'Миндаль';
+		$data['type'] = 'Чемпион';
 		$data['type_n'] = '3';
 	}
 
-	if ($data['type'] == 'Фисташки' || $data['type'] == 'фисташки')	{
+	if ($data['type'] == 'Джоногоред' || $data['type'] == 'фисташки')	{
 
-		$data['type'] = 'Фисташки';
+		$data['type'] = 'Джоногоред';
 		$data['type_n'] = '4';
 	}
 
@@ -196,7 +196,7 @@ if(isset($data['add_product'])) {
 <h1 align="center">Добро пожаловать в панель администратора!</h1>
 		<div class="header-block d-flex align-items-center">
 		   <div class="container">
-			  <div class="row"><p align = "center">Фермерское хозяйство “Грицкевичей”<br>
+			  <div class="row"><p align = "center">Фермерское хозяйство “Applefield”<br>
 <?php if(isset($_SESSION['logged_user'])) : ?>
   Привет, <?php echo $_SESSION['logged_user']->name; ?><br>
 

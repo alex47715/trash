@@ -20,8 +20,8 @@ else{
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-    <title>Продукция - ФХ “Грицкевичей”, Gretsky</title>
-    <meta name="description" content="Фермерское хозяйство “Грицкевичей” в широком ассортименте предлагает купить орехи оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
+    <title>Продукция - ФХ “Applefield”, Gretsky</title>
+    <meta name="description" content="Фермерское хозяйство “Applefield” в широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
     <meta name="keywords" content="">
     <link rel="preload" href="../gretskiy/static/fonts/ElegantIcons.woff" as="font" type="font/woff" crossorigin>
     <link rel="preload" href="../gretskiy/static/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -31,13 +31,13 @@ else{
     <link rel="preload" href="../gretskiy/static/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="../gretskiy/static/css/packedmin_all_css.css">
     <link rel="shortcut icon" href="../gretskiy/static/images/fav.png">
-    <meta property="og:site_name" content="ФХ “Грицкевичей” - Фермерское хозяйство “Грицкевичей”, Gretskiy, Vitae">    
+    <meta property="og:site_name" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae">    
     <meta property="og:locale" content="ru_RU">    
-    <meta property="og:title" content="Фермерское хозяйство “Грицкевичей” в широком ассортименте предлагает купить орехи оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">    
+    <meta property="og:title" content="Фермерское хозяйство “Applefield” в широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">    
     <meta property="og:type" content="website">    
     <meta property="og:image" content="../gretskiy/static/images/logo.svg">            
     <meta property="og:url" content="../index.php">    
-    <meta property="og:description" content="ФХ “Грицкевичей” - Фермерское хозяйство “Грицкевичей”, Gretskiy, Vitae. В широком ассортименте предлагает купить орехи оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
+    <meta property="og:description" content="ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae. В широком ассортименте предлагает купить яблоки оптом с доставкой. Мы осуществляем продажу овощей оптом от производителя">
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -61,8 +61,8 @@ else{
             <div class="row">
               <div class="col-12 col-md-8">
                 <div class="header-left d-flex flex-column flex-md-row align-items-center">
-                  <p class="d-flex align-items-center"><a href="mail:" class="contact-line-field"><i class="fas fa-envelope"></i>export@gretskiy.by</a></p>
-                  <p class="d-flex align-items-center"><a href="tel:" class="contact-line-field url-phone"><i class="fas fa-phone"></i>+375 33 323 03 01</a></p>
+                  <p class="d-flex align-items-center"><a href="mail:" class="contact-line-field"><i class="fas fa-envelope"></i>export@apple.by</a></p>
+                  <p class="d-flex align-items-center"><a href="tel:" class="contact-line-field url-phone"><i class="fas fa-phone"></i>+375 00 000 00 00</a></p>
                     <div class="phone-link d-flex">
                     <a href="https://telegram.me/?"><i class="fab fa-telegram"> </i></a>
                               <a href="https://wa.me/375292682290"><i class="fab fa-whatsapp"></i></a>
@@ -74,7 +74,7 @@ else{
               <div class="col-12 col-md-4">
                 <div class="header-right d-flex flex-column flex-md-row justify-content-md-end justify-content-center align-items-center">
                   <div class="social-link d-flex">
-                    <p>Фермерское хозяйство “Грицкевичей”</p>
+                    <p>Фермерское хозяйство “Applefield”</p>
                   </div>
                 </div>
               </div>
@@ -154,7 +154,7 @@ else{
                     </div>
                    
                     <div class="mobile-login">
-                      <a href="tel:" class="url-phone"><i class="fas fa-phone"></i> +375 33 323 03 01</a>
+                      <a href="tel:" class="url-phone"><i class="fas fa-phone"></i> +375 00 000 00 00</a>
                       <a href="mail:"><i class="fas fa-envelope"></i> export@gretsky.by</a>
                     </div>
                     <div class="mobile-social justify-content-center">
@@ -186,14 +186,14 @@ else{
                   <div class="department-menu d-flex justify-content-between align-items-center"><i class="fas fa-bars"></i>Каталог<span><i class="arrow_carrot-down"></i></span></div>
                   <div class="department-dropdown-menu" style="display: none;">
                     <ul>
-                      <li style="text-align: center;font-size: 2ex;border-bottom: 1px solid black;border-top: 1px solid black;"><b>СВЕЖИЕ ОРЕХИ</b></li>
-                      <li><a href="fistashki.php" class=""> - <img class="ico-menu" src="../gretskiy/static/images/ico/Fistashki.svg" alt="">Фисташки</a></li>
-                      <li><a href="funduk.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Funduk.svg" alt="">Фундук</a></li>
-                      <li><a href="gretskiy_oreh.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Gretskiy_orekh.svg" alt="">Грецкий Орех</a></li>
-                      <li><a href="mindal.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Mindal.svg" alt="">Миндаль</a></li>
-                      <li style="text-align: center;font-size: 2ex;border-bottom: 1px solid black;border-top: 1px solid black;"><b>ОБЖАРЕННЫЕ ОРЕХИ</b></li>
-                      <li><a href="obzh_lesnoy.php" class=""> - <img class="ico-menu" src="../gretskiy/static/images/ico/Lesnoy_orekh.svg" alt="">Фундук</a></li>
-                      <li><a href="obzh_fistashki.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Fistashki.svg" alt="">Фисташки</a></li>
+                      <li style="text-align: center;font-size: 2ex;border-bottom: 1px solid black;border-top: 1px solid black;"><b>СВЕЖИЕ ЯБЛОКИ</b></li>
+                      <li><a href="fistashki.php" class=""> - <img class="ico-menu" src="../gretskiy/static/images/ico/Fistashki.svg" alt="">Джоногоред</a></li>
+                      <li><a href="funduk.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Funduk.svg" alt="">Муцу</a></li>
+                      <li><a href="gretskiy_oreh.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Gretskiy_orekh.svg" alt="">Applefield Орех</a></li>
+                      <li><a href="mindal.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Mindal.svg" alt="">Чемпион</a></li>
+                      <li style="text-align: center;font-size: 2ex;border-bottom: 1px solid black;border-top: 1px solid black;"><b>СУШЕНЫЕ ЯБЛОКИ</b></li>
+                      <li><a href="obzh_lesnoy.php" class=""> - <img class="ico-menu" src="../gretskiy/static/images/ico/Lesnoy_orekh.svg" alt="">Муцу</a></li>
+                      <li><a href="obzh_fistashki.php"> - <img class="ico-menu" src="../gretskiy/static/images/ico/Fistashki.svg" alt="">Джоногоред</a></li>
 </ul>
                   </div>
                </div>
@@ -226,7 +226,7 @@ else{
           <ul>
             <li> <a class="breadcrumb-link" href="../index.php"> <i class="fas fa-home"></i>Главная</a></li>
             <li> <a class="breadcrumb-link" href="all.php">Продукция</a></li>
-            <li> <a class="breadcrumb-link active">Обжаренные фисташки</a></li>
+            <li> <a class="breadcrumb-link active">Сушеные фисташки</a></li>
           </ul>
         </div>
       </div>
@@ -240,25 +240,25 @@ else{
 
 <div class="shop-sidebar_department">
   <div class="department_top mini-tab-title underline">
-    <h2 class="title">Свежие орехи</h2>
+    <h2 class="title">Свежие яблоки</h2>
   </div>
   <div class="department_bottom">
     <ul>
-      <li> <a class="department-link" href="fistashki.php">Фисташки</a></li>
-      <li> <a class="department-link" href="funduk.php">Фундук</a></li>
-      <li> <a class="department-link" href="gretskiy_oreh.php">Грецкий орех</a></li>
-      <li> <a class="department-link" href="mindal.php">Миндаль</a></li>
+      <li> <a class="department-link" href="fistashki.php">Джоногоред</a></li>
+      <li> <a class="department-link" href="funduk.php">Муцу</a></li>
+      <li> <a class="department-link" href="gretskiy_oreh.php">Голден</a></li>
+      <li> <a class="department-link" href="mindal.php">Чемпион</a></li>
     </ul>
   </div>
 </div>
 <div class="shop-sidebar_department">
   <div class="department_top mini-tab-title underline">
-    <h2 class="title">Обжаренные орехи</h2>
+    <h2 class="title">Сушеные яблоки</h2>
   </div>
   <div class="department_bottom">
     <ul>
-      <li><a class="department-link" href="obzh_lesnoy.php">Фундук</a></li>
-      <li><a class="department-link" href="obzh_fistashki.php">Фисташки</a></li>
+      <li><a class="department-link" href="obzh_lesnoy.php">Муцу</a></li>
+      <li><a class="department-link" href="obzh_fistashki.php">Джоногоред</a></li>
     </ul>
   </div>
 </div>
@@ -363,9 +363,9 @@ else{
             <div class="col-12 col-sm-12 col-md-4 text-sm-center text-md-left">
               <div class="footer-logo"><img src="../gretskiy/static/images/logo.png" alt=""></div>
               <div class="footer-contact">
-                <p>228322, пгт.Орешковичи, ул. Независимости, 4А область, Республика Крым.</p>
-                <p><a href="tel:+37530301" class="contact-line-field url-phone">+375 33 323 03 01</a></p>
-                <p><a href="mail:exporiy.by" class="contact-line-field">export@gretskiy.by</a></p>
+                <p>332412, г.Минск, ул. Яблочная, Минская область, Республика Беларусь.</p>
+                <p><a href="tel:+37530301" class="contact-line-field url-phone">+375 00 000 00 00</a></p>
+                <p><a href="mail:exporiy.by" class="contact-line-field">export@apple.by</a></p>
              </div>
              <div class="footer-social">
                 <a class="round-icon-btn" href="https://wa.me/375292682290">
@@ -408,18 +408,18 @@ else{
                </div>
                <div class="col-12 col-sm-4 text-sm-center text-md-left">
                   <div class="footer-quicklink">
-                     <h5>Свежие орехи</h5>
-                     <a href="fistashki.php">Фисташки</a>
-                     <a href="funduk.php">Фундук</a>
-                     <a href="gretskiy_oreh.php">Грецкий орех</a>
-                     <a href="mindal.php">Миндаль</a>
+                     <h5>Свежие яблоки</h5>
+                     <a href="fistashki.php">Джоногоред</a>
+                     <a href="funduk.php">Муцу</a>
+                     <a href="gretskiy_oreh.php">Голден</a>
+                     <a href="mindal.php">Чемпион</a>
                   </div>
                </div>
                <div class="col-12 col-sm-4 text-sm-center text-md-left">
                   <div class="footer-quicklink">
-                     <h5>Обжаренные орехи</h5>
-                     <a href="obzh_lesnoy.php">Фундук</a>
-                     <a href="obzh_fistashki.php">Фисташки</a>
+                     <h5>Сушеные яблоки</h5>
+                     <a href="obzh_lesnoy.php">Муцу</a>
+                     <a href="obzh_fistashki.php">Джоногоред</a>
                   </div>
                </div>
               </div>
@@ -450,7 +450,7 @@ else{
         <div class="footer-credit">
           <div class="container">
             <div class="footer-creadit_block d-flex flex-column flex-md-row justify-content-start justify-content-md-between align-items-baseline align-items-md-center">
-              <p class="author">© 2020 Gretskiy | Фермерское хозяйство "Грицкевичей" | Все права защищены</p>
+              <p class="author">© 2020 Gretskiy | Фермерское хозяйство "Applefield" | Все права защищены</p>
             </div>
           </div>
         </div>
@@ -484,15 +484,15 @@ else{
         {
         "@context": "http://schema.org",
         "@type": "Organization",
-        "name": "ФХ “Грицкевичей” - Фермерское хозяйство “Грицкевичей”, Gretskiy, Vitae",
-        "legalName" : "ФХ “Грицкевичей",
+        "name": "ФХ “Applefield” - Фермерское хозяйство “Applefield”, Gretskiy, Vitae",
+        "legalName" : "ФХ “Applefield",
         "url": "https://gretskiy.by/",
         "logo": "https://gretskiy.by/gretskiy/static/images/logo.svg",
         "foundingDate": "2001",
         "address": {
          "@type": "PostalAddress",
-        "streetAddress": "ул. Независимости",
-        "addressLocality": "4А область, г.Лунинец",
+        "streetAddress": "ул. Яблочная",
+        "addressLocality": "Минская область, г.Лунинец",
         "addressRegion": "BY",
         "postalCode": "221234",
         "addressCountry": "Belarus"
@@ -501,7 +501,7 @@ else{
          "@type": "ContactPoint",
         "contactType": "sales",
         "telephone": "[+375 (33) 323 03 00]",
-        "email": "export@gretskiy.by"
+        "email": "export@apple.by"
         },
         "sameAs": [
          "https://vk.com/gretskiy365",
